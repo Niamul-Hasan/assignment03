@@ -1,0 +1,11 @@
+.anchor a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.anchor:hover a{
+    color:blanchedalmond;
+}
+.anchor:hover{
+    background-color: rgb(51, 50, 50);
+}
